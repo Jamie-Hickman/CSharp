@@ -1,0 +1,6 @@
+C:\Users\jamie\source\repos\C-Sharp\activity3\obj\Debug\activity3.csproj.CoreCompileInputs.cache
+C:\Users\jamie\source\repos\C-Sharp\activity3\bin\Debug\activity3.exe.config
+C:\Users\jamie\source\repos\C-Sharp\activity3\bin\Debug\activity3.exe
+C:\Users\jamie\source\repos\C-Sharp\activity3\bin\Debug\activity3.pdb
+C:\Users\jamie\source\repos\C-Sharp\activity3\obj\Debug\activity3.exe
+C:\Users\jamie\source\repos\C-Sharp\activity3\obj\Debug\activity3.pdb

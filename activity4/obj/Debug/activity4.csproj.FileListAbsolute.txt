@@ -1,0 +1,7 @@
+C:\Users\jamie\source\repos\C-Sharp\activity4\bin\Debug\activity4.exe.config
+C:\Users\jamie\source\repos\C-Sharp\activity4\bin\Debug\activity4.exe
+C:\Users\jamie\source\repos\C-Sharp\activity4\bin\Debug\activity4.pdb
+C:\Users\jamie\source\repos\C-Sharp\activity4\obj\Debug\activity4.csproj.CoreCompileInputs.cache
+C:\Users\jamie\source\repos\C-Sharp\activity4\obj\Debug\activity4.exe
+C:\Users\jamie\source\repos\C-Sharp\activity4\obj\Debug\activity4.pdb
+C:\Users\jamie\source\repos\C-Sharp\activity4\obj\Debug\activity4.csproj.AssemblyReference.cache

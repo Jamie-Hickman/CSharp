@@ -1,0 +1,6 @@
+C:\Users\jamie\source\repos\C-Sharp\activity6\bin\Debug\activity6.exe.config
+C:\Users\jamie\source\repos\C-Sharp\activity6\bin\Debug\activity6.exe
+C:\Users\jamie\source\repos\C-Sharp\activity6\bin\Debug\activity6.pdb
+C:\Users\jamie\source\repos\C-Sharp\activity6\obj\Debug\activity6.csproj.CoreCompileInputs.cache
+C:\Users\jamie\source\repos\C-Sharp\activity6\obj\Debug\activity6.exe
+C:\Users\jamie\source\repos\C-Sharp\activity6\obj\Debug\activity6.pdb

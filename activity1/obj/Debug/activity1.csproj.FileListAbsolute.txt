@@ -1,0 +1,7 @@
+C:\Users\jamie\source\repos\C-Sharp\activity1\obj\Debug\activity1.csproj.CoreCompileInputs.cache
+C:\Users\jamie\source\repos\C-Sharp\activity1\obj\Debug\activity1.csproj.AssemblyReference.cache
+C:\Users\jamie\source\repos\C-Sharp\activity1\bin\Debug\activity1.exe.config
+C:\Users\jamie\source\repos\C-Sharp\activity1\bin\Debug\activity1.exe
+C:\Users\jamie\source\repos\C-Sharp\activity1\bin\Debug\activity1.pdb
+C:\Users\jamie\source\repos\C-Sharp\activity1\obj\Debug\activity1.exe
+C:\Users\jamie\source\repos\C-Sharp\activity1\obj\Debug\activity1.pdb
