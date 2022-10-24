@@ -1,0 +1,7 @@
+C:\Users\jamie\source\repos\C-Sharp\Overloading\obj\Debug\Overloading.csproj.CoreCompileInputs.cache
+C:\Users\jamie\source\repos\C-Sharp\Overloading\bin\Debug\Overloading.exe.config
+C:\Users\jamie\source\repos\C-Sharp\Overloading\bin\Debug\Overloading.exe
+C:\Users\jamie\source\repos\C-Sharp\Overloading\bin\Debug\Overloading.pdb
+C:\Users\jamie\source\repos\C-Sharp\Overloading\obj\Debug\Overloading.exe
+C:\Users\jamie\source\repos\C-Sharp\Overloading\obj\Debug\Overloading.pdb
+C:\Users\jamie\source\repos\C-Sharp\Overloading\obj\Debug\Overloading.csproj.AssemblyReference.cache

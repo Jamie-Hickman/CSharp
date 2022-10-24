@@ -1,0 +1,7 @@
+C:\Users\jamie\source\repos\Guessinggame2\bin\Debug\Guessinggame2.exe.config
+C:\Users\jamie\source\repos\Guessinggame2\bin\Debug\Guessinggame2.exe
+C:\Users\jamie\source\repos\Guessinggame2\bin\Debug\Guessinggame2.pdb
+C:\Users\jamie\source\repos\Guessinggame2\obj\Debug\Guessinggame2.csproj.CoreCompileInputs.cache
+C:\Users\jamie\source\repos\Guessinggame2\obj\Debug\Guessinggame2.exe
+C:\Users\jamie\source\repos\Guessinggame2\obj\Debug\Guessinggame2.pdb
+C:\Users\jamie\source\repos\Guessinggame2\obj\Debug\Guessinggame2.csproj.AssemblyReference.cache

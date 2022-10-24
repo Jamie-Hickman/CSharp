@@ -1,0 +1,7 @@
+C:\Users\jamie\source\repos\C-Sharp\Overriding\bin\Debug\Overriding.exe.config
+C:\Users\jamie\source\repos\C-Sharp\Overriding\bin\Debug\Overriding.exe
+C:\Users\jamie\source\repos\C-Sharp\Overriding\bin\Debug\Overriding.pdb
+C:\Users\jamie\source\repos\C-Sharp\Overriding\obj\Debug\Overriding.csproj.AssemblyReference.cache
+C:\Users\jamie\source\repos\C-Sharp\Overriding\obj\Debug\Overriding.csproj.CoreCompileInputs.cache
+C:\Users\jamie\source\repos\C-Sharp\Overriding\obj\Debug\Overriding.exe
+C:\Users\jamie\source\repos\C-Sharp\Overriding\obj\Debug\Overriding.pdb
