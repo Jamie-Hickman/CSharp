@@ -14,7 +14,7 @@ namespace activity1
 
             string[] new_sequence = sequence.Split(',');
 
-            int running_total = 0;
+            public int running_total = 0;
             int saved_total = 0;
             int final_total = 0;
             List<int> new_list = new List<int>() { };
